@@ -41,8 +41,8 @@ Here are some of the projects I'm proud of:
 
 
 📫 Let's Connect  
-- GitHub: [Your GitHub Profile Link]  
-- LinkedIn: [Your LinkedIn Profile Link]  
+- GitHub:  github.com/SufiyanShareef
+- LinkedIn: LinkedIn.com/Mohammed-Sufiyan-Shareef 
 - Email: mdsufiyanshareef@gmail.com  
 
 
