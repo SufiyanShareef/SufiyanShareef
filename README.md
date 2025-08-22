@@ -1,51 +1,80 @@
-## Hi there 👋
+<!-- README.md for SufiyanShareef -->
 
-<!--
-SufiyanShareef/SufiyanShareef is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm Mohammed Sufiyan 👨‍💻</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00fff&center=true&vCenter=true&multiline=true&width=900&height=100&lines=👨‍💻+ML+Engineer+%7C+Full-Stack+Developer+;🔍+Exploring+the+Edge+of+AI+%26+Tech;💡+Turning+Ideas+into+Reality...+One+Line+of+Code+at+a+Time" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#👋 Hi, I'm mohammed sufiyan!
+### ⚡ About Me
 
-🌟 About Me  
-I'm a passionate developer with a keen interest in building innovative solutions through technology. My expertise lies in Machine Learning, Computer Vision, and Full-Stack Development. I love exploring new technologies and using them to solve real-world problems.
+🚀 Developer on a mission to build powerful, intelligent, real-time systems that make the world smarter.  
+🎯 Specializing in **Machine Learning**, **Computer Vision**, and **Full-Stack Web Dev**.  
+🧠 Always learning. Always building. Always caffeinated.
 
+---
 
-🛠️ Technologies I Work With  
-- Programming Languages: Python, JavaScript, SQL  
-- Frameworks & Libraries: TensorFlow, React, Node.js, OpenCV, MediaPipe  
-- Databases: MySQL, MongoDB  
-- Tools: Git, Docker, Postman  
+### 🔧 Tech Stack & Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,tensorflow,opencv,mediapipe,mongodb,mysql,git,docker,postman&theme=dark" />
+</p>
 
-💼 Projects  
-Here are some of the projects I'm proud of:  
-1. Secure Chat Application  
-   - A real-time messaging platform inspired by WhatsApp and Discord, featuring user profiles, encrypted messages, and community servers.  
-   - Tech Stack: React, Node.js, MongoDB, Socket.IO  
+---
 
-2. Gesture Recognition System  
-   - A machine learning project that translates ASL (American Sign Language) gestures into text in real-time using MediaPipe and TensorFlow.  
+### 🚀 Featured Projects
 
-3. Recommendation System  
-   - Built a personalized recommendation engine for products using collaborative filtering and deep learning techniques.  
+| 🔐 Secure Chat App | 🧠 Gesture Recognition | 🎯 Recommendation Engine |
+|--------------------|------------------------|--------------------------|
+| Real-time chat with encryption, user profiles, and communities. | Translates ASL hand gestures into live text using ML. | Deep learning & collaborative filtering to suggest items. |
+| *Stack:* React, Node.js, MongoDB, Socket.IO | *Stack:* MediaPipe, TensorFlow, OpenCV | *Stack:* Python, TensorFlow, Scikit-Learn |
 
+> 🛠 Want more? [Check out all my projects here 👉](https://github.com/SufiyanShareef?tab=repositories)
 
-📫 Let's Connect  
-- GitHub:  github.com/SufiyanShareef
-- LinkedIn: LinkedIn.com/Mohammed-Sufiyan-Shareef 
-- Email: mdsufiyanshareef@gmail.com  
+---
 
+### 📊 GitHub Stats
 
-💡 Fun Fact: I enjoy designing neural network architectures and brainstorming innovative project ideas!  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SufiyanShareef&show_icons=true&theme=tokyonight&hide=issues" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SufiyanShareef&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SufiyanShareef&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:mdsufiyanshareef@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/Mohammed-Sufiyan-Shareef"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SufiyanShareef"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧿 Fun Fact
+
+> ⚡ “You miss 100% of the shots you don’t take — and 99.9% of the models you don’t train.”
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SufiyanShareef&label=Profile+Views&color=29cc94&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/SufiyanShareef/SufiyanShareef/raw/main/assets/terminal.gif" alt="Terminal Animation" width="80%" />
+</p>
 
 
